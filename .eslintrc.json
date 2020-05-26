@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "globals": {
+    "use": true
+  },
+  "rules": {
+    "space-before-function-paren": [true, "always"]
+  },
+  "env": {
+    "es6": true
+  }
+}
